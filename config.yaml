@@ -2,7 +2,7 @@ author:
   email: example@example.com
   name: Chiara Ferrante
 baseurl: https://chiaraferrante.netlify.app/
-copyright: © Michael Bluth
+copyright: © Will Faught - License Apache-2.0
 languagecode: en-us
 enablerobotstxt: true
 markup:

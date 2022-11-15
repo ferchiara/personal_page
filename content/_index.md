@@ -1,0 +1,6 @@
+---
+blurb: I'm a [Postdoctoral researcher](https://people.ucd.ie/chiara.ferrante) at the Spatial Dynamics Lab, *University College Dublin*. I'm currently working with Prof. D.F. Kogler, under the TechEvo project, on smart specialization strategies in European regions and on the evolution of scientific knowledge in China. <br><br>I obtained my PhD in **Economic Geography** at *Sapienza University of Rome*, with a thesis entitled "Electoral geography and political transformations. The rise of populism and its determinants", supervised by Dr. Augusto Cerqua, from the University of Rome and Dr. Nicola Pontarollo, from the University of Brescia. <br><br> My research interests cover a wide range of topics, such as the role of **institutions**, the evolution of **political preferences**, the interaction between the political context and the **regional technological and knowledge development**. I mainly apply quantitative techniques, such as econometric models, causal inference and machine learning techniques.<br><br><br> Link to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=8xHtpJIAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Chiara-Ferrante) Contact buttons below
+#description: Go ahead, touch the Cornballer
+greeting: About me
+title: Hello, I'm Chiara Ferrante
+---

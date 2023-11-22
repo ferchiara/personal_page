@@ -1,6 +1,6 @@
 
 ---
-description: Ongoing projects
+description: Ongoing papers
 title: Work in Progress
 ---
 

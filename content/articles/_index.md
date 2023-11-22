@@ -3,7 +3,7 @@ title: Publications
 ---
 
 **Publications in Peer-reviewed journals**
-* Cerqua, A., Ferrante, C., & Letta, M. (2023). Electoral earthquake: Local shocks and authoritarian voting. European Economic Review, 156, 104464.
+* Cerqua, A., Ferrante, C., & Letta, M. (2023). Electoral earthquake: Local shocks and authoritarian voting. European Economic Review, 156, 104464. https://www.sciencedirect.com/science/article/pii/S0014292123000934
 * Ferrante, C., & Pontarollo, N. (2022), The Populist Outbreak and the Role of Institutional Quality in European Regions, in "Scienze Regionali, Italian Journal of Regional Science" 3/2022, pp. 337-366. https://www.rivisteweb.it/doi/10.14650/105120 
 * Ferrante, C., & Pontarollo, N. (2020). Regional voting dynamics in Europe: The rise of anti-elite and anti-European parties. Environment and Planning A: Economy and Space, 52(6), 1019–1022. https://doi.org/10.1177/0308518X19884942
 
